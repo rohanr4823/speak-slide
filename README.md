@@ -19,4 +19,3 @@ Command Processing: Understands and executes commands like "create slide," "add 
 Persistent Logging: Saves recognized commands to a text file for easy reference.
 
 Presentation Saving: Automatically saves your presentation as "voice_presentation.pptx" at the end of the session.
-
